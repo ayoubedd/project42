@@ -80,13 +80,13 @@ This repository showcases projects completed throughout the 42 Common Core curri
 - **Link:** [philosophers](https://github.com/ayoubedd/philosophers)
 
 ### minishell
-- **Description:** This project is about creating a basic shell, which supports variable expansion, pipping, signal handling ...
+- **Description:** This is a team project is about creating a basic shell, which supports variable expansion, pipping, signal handling ...
 - **Technologies/Tools Used:** C, Make
 - **Key Learnings:** Get to know the shell by creating one (what's better than that ?).
 - **Link:** [minishell](https://github.com/ayoubedd/minishell)
 
 ### cub3d
-- **Description:** This project is about building a game like wolfenstein (using Raycasting)
+- **Description:** This is a team project is about building a game like wolfenstein (using Raycasting)
 - **Technologies/Tools Used:** C, Make
 - **Key Learnings:** Building games without a game engine is hard.
 - **Link:** [cub3d](https://github.com/ayoubedd/cub3d)
@@ -109,17 +109,18 @@ This repository showcases projects completed throughout the 42 Common Core curri
 - **Link:** [inception](https://github.com/ayoubedd/inception)
 
 ### webserv
-- **Description:** This project what made feel conforatble with web Technologies in general, it's about creating a webserv from the ground up, realying on nothing but Berkeley sockets api and C++98 standard library.
+- **Description:** This is a team project what made feel conforatble with web Technologies in general, it's about creating a webserv from the ground up, realying on nothing but Berkeley sockets api and C++98 standard library.
 - **Technologies/Tools Used:** C++, Make
 - **Key Learnings:** HTTP Spec, Multipart-formdata, Event driven programing
 - **Link:** [webserv](https://github.com/ayoubedd/webserv)
 
 ### ft_transcendence
-- **Description:** The last project in the common core, a team project about creating a in browser pong game, with chat features, firends, one to one games, spectating other games.
+- **Description:** The last project in the common core, a team project about creating a in browser realtime pong game, with chat features, firends, one to one games, spectating other games.
 - **Technologies/Tools Used:** Nodejs, Typescript, Matterjs, Vuejs, Nestjs
 - **Key Learnings:** Got the opportunity to build a faily complex app with modern solutions, like Typescript, Nodejs and Vuejs.
 - **Link:** [ft_transcendence](https://github.com/ayoubedd/ft_transcendence)
 
 ## Acknowledgments
-Thanks everyong i worked with in these projects it really was a blast, thank you again.
+Thanks to everyong i worked with in these projects it really was a blast.
+
 Last but not least to all of my friend in 1337 Benguerir i appreciate you all, and to all the 42 community.
