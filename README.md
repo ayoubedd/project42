@@ -14,21 +14,21 @@ This repository showcases projects completed throughout the 42 Common Core curri
 >> 42
 
 ## Projects List
-- Project 1:  [libft](#libft)
-- Project 2:  [ft_printf](#ft_printf)
-- Project 3:  [get_next_line](#get_next_line)
-- Project 4:  [born2beroot](#born2beroot)
-- Project 5:  [pipex](#pipex)
-- Project 6:  [so_long](#so_long)
-- Project 7:  [push_swap](#push_swap)
-- Project 8:  [philosophers](#philosophers)
-- Project 9:  [minishell](#minishell)
-- Project 10: [cub3d](#cub3d)
-- Project 11: [netpractice](#netpractice)
-- Project 12: [42cpp](#42cpp)
-- Project 13: [inception](#inception)
-- Project 14: [webserv](#webserv)
-- Project 15: [ft_transcendence](#ft_transcendence)
+- [libft](#libft)
+- [ft_printf](#ft_printf)
+- [get_next_line](#get_next_line)
+- [born2beroot](#born2beroot)
+- [pipex](#pipex)
+- [so_long](#so_long)
+- [push_swap](#push_swap)
+- [philosophers](#philosophers)
+- [minishell](#minishell)
+- [cub3d](#cub3d)
+- [netpractice](#netpractice)
+- [42cpp](#42cpp)
+- [inception](#inception)
+- [webserv](#webserv)
+- [ft_transcendence](#ft_transcendence)
 
 ## Project Details
 
