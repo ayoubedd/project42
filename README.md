@@ -100,7 +100,7 @@ This repository showcases projects completed throughout the 42 Common Core curri
 - **Description:** This is very such like the C picine but in c++, a set of cpp exercies which will make sure you get cpp/oop concepts.
 - **Technologies/Tools Used:** C++, Make
 - **Key Learnings:** Object oriented programing, RAAI, Exceptions, IO
-- **Link:** [42cpp](https://github.com/ayoubedd/42-cpp)
+- **Link:** [42cpp](https://github.com/ayoubedd/42cpp)
 
 ### inception
 - **Description:** This is a great project to get your hands dirty with docker and Containerization in general, which is about creating a minimal infrastructure of services (Wordpress, Mariadb, Redis, Nginx).
